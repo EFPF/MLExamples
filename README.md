@@ -1,5 +1,8 @@
 # MLExamples
 
+For a Machine Learning (crash) Course practical examples and (toy) experiments have been prepared.
+
+
 Two examples show the full Data Driven Pipeline for a Regression task:
 <ul>
 	<li> Ex1_EnergyEfficiency.ipynb 
@@ -9,3 +12,9 @@ Two examples show the full Data Driven Pipeline for a Regression task:
 		<a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex2_AirfoilSelfNoise.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 	</li>
 </ul>
+</ br>
+
+The notebook, called LassoRegularisation.ipynb, with a toy experiment describes the property of the, so called, L1 regularization and how it determines how many features are retained.
+ <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/LassoRegularisation.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+
+ </ br>
