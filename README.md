@@ -18,3 +18,9 @@ The notebook, called LassoRegularisation.ipynb, with a toy experiment describes 
  <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/LassoRegularisation.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
  </ br>
+
+
+The notebook, called CrossValidation_ModelSelection.ipynb, shows example of uderfitting/overfitting and the benefits of implementing cross-validation.
+ <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/CrossValidation_ModelSelection.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+
+ 
