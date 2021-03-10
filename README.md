@@ -1,27 +1,29 @@
 # MLExamples
 
-For a Machine Learning (crash) Course practical examples and (toy) experiments have been prepared.
+<h1> Machine Learning Excercises and Examples</h1>
 
 
-Two examples show the full Data Driven Pipeline for a Regression task:
-<ul>
-	<li> Ex1_EnergyEfficiency.ipynb 
-		<a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex1_EnergyEfficiency.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
-	</li>
-	<li>Ex2_AirfoilSelfNoise.ipynb 
-		<a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex2_AirfoilSelfNoise.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
-	</li>
-</ul>
-<br />
-
-The notebook, called LassoRegularisation.ipynb, with a toy experiment describes the property of the, so called, L1 regularization and how it determines how many features are retained.
- <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/LassoRegularisation.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
-
- <br />
-
-
-The notebook, called CrossValidation_ModelSelection.ipynb, shows example of uderfitting/overfitting and the benefits of implementing cross-validation.
- <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/CrossValidation_ModelSelection.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
 <br />
 
+For a Machine Learning (crash) Course have been prepared practical examples, excercizes and (toy) experiments .
+
+The notebook, LassoRegularisation.ipynb  <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/LassoRegularisation.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+, describes the property of the, so called, L1 regularization, and it shows how to determine how many input features are retained or not penalized. At the end there is an exercize, it aims to demostrate the benefit of feature selection to avoid overfitting. 
+
+<br />
+
+The notebook, CrossValidation_ModelSelection.ipynb  <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/CrossValidation_ModelSelection.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>, shows example of uderfitting/overfitting and the benefits of implementing cross-validation.
+
+<br />
+
+Ex1_EnergyEfficiency.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex1_EnergyEfficiency.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an example notebook that shows the full Data Driven Pipeline for a Regression task. 
+
+Ex2_AirfoilSelfNoise.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex2_AirfoilSelfNoise.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an excercize, it inherited the structure from the previous example, but it is not completed, the tasks assigned are to complete the notebook with the most appropiate functions/module.
+A possible solution can be found on the notebook Ex2_AirfoilSelfNoise-Solution.ipynb
+<a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex2_AirfoilSelfNoise-Solution.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+
+
+
+Prepared by <b><a href="https://github.com/tombarba"><img src="https://avatars.githubusercontent.com/u/65889388?s=64&v=4" alt="@tombarba" width="22" height="22"/>Tombarba</a></b>
+and <b><a href="https://github.com/EFPF"><img src="https://avatars.githubusercontent.com/u/64966744?s=460&v=4" alt="@EFPF" width="22" height="22"/>EFPF</a></b>.
