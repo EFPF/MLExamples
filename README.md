@@ -1,6 +1,6 @@
 # MLExamples
 
-<h1> Machine Learning Excercises and Examples</h1>
+<h1> Machine Learning Exercises and Examples</h1>
 
 
 
