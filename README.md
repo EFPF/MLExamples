@@ -6,10 +6,10 @@
 
 <br />
 
-For a Machine Learning (crash) Course have been prepared practical examples, excercizes and (toy) experiments .
+For a Machine Learning (crash) Course have been prepared practical examples, exercises and (toy) experiments .
 
 The notebook, LassoRegularisation.ipynb  <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/LassoRegularisation.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
-, describes the property of the, so called, L1 regularization, and it shows how to determine how many input features are retained or not penalized. At the end there is an exercize, it aims to demostrate the benefit of feature selection to avoid overfitting. 
+, describes the property of the, so called, L1 regularization, and it shows how to determine how many input features are retained or not penalized. At the end there is an exercise, it aims to demostrate the benefit of feature selection to avoid overfitting. 
 
 <br />
 
