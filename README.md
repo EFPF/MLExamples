@@ -19,14 +19,14 @@ The notebook, CrossValidation_ModelSelection.ipynb  <a href='https://colab.resea
 <h2> Regression </h2>
 Ex1_EnergyEfficiency.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex1_EnergyEfficiency.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an example notebook that shows the full Data Driven Pipeline for a Regression task. 
 
-Ex2_AirfoilSelfNoise.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex2_AirfoilSelfNoise.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an excercize, it inherited the structure from the previous example, but it is not completed, the tasks assigned are to complete the notebook with the most appropiate functions/module.
+Ex2_AirfoilSelfNoise.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex2_AirfoilSelfNoise.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an exercise, it inherited the structure from the previous example, but it is not completed, the tasks assigned are to complete the notebook with the most appropiate functions/module.
 A possible solution can be found on the notebook Ex2_AirfoilSelfNoise-Solution.ipynb
 <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex2_AirfoilSelfNoise-Solution.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
 <h2>Classification</h2>
 Ex3_SteelPlates.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex3_SteelPlates.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an example notebook that shows the full Data Driven Pipeline for a Classification task. 
 
-Ex4_FlowMeterDiagnostic.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex4_FlowMeterDiagnostic.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an excercize, it inherited the structure from the previous example, but it is not completed, the tasks assigned are to complete the notebook with the most appropiate functions/module.
+Ex4_FlowMeterDiagnostic.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex4_FlowMeterDiagnostic.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an exercise, it inherited the structure from the previous example, but it is not completed, the tasks assigned are to complete the notebook with the most appropiate functions/module.
 A possible solution can be found on the notebook Ex4_FlowMeterDiagnostic-Solution.ipynb
 <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex4_FlowMeterDiagnostic-Solution.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
