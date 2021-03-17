@@ -30,7 +30,11 @@ Ex4_FlowMeterDiagnostic.ipynb <a href='https://colab.research.google.com/github/
 A possible solution can be found on the notebook Ex4_FlowMeterDiagnostic-Solution.ipynb
 <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Ex4_FlowMeterDiagnostic-Solution.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
+<h2>Clustering</h2>
+Clustering_Example.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Clustering_Example.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an example notebook that shows the implementation of clustering algorithms within a ML pipeline. 
 
+<br />
+<br />
 
 Prepared by <b><a href="https://github.com/tombarba"><img src="https://avatars.githubusercontent.com/u/65889388?s=64&v=4" alt="@tombarba" width="22" height="22"/>Tombarba</a></b>
 and <b><a href="https://github.com/EFPF"><img src="https://avatars.githubusercontent.com/u/64966744?s=460&v=4" alt="@EFPF" width="22" height="22"/>EFPF</a></b>.
