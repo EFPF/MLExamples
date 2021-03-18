@@ -33,6 +33,9 @@ A possible solution can be found on the notebook Ex4_FlowMeterDiagnostic-Solutio
 <h2>Clustering</h2>
 Clustering_Example.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Clustering_Example.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an example notebook that shows the implementation of clustering algorithms within a ML pipeline. 
 
+<h2>Anomaly Detection</h2>
+Anomaly_Detection_Example.ipynb <a href='https://colab.research.google.com/github/EFPF/MLExamples/blob/main/Anomaly_Detection_Example.ipynb'> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> is an example notebook that shows the implementation of Anomaly Detection algorithms within a ML pipeline. 
+
 <br />
 <br />
 
